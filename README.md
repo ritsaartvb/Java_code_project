@@ -2,13 +2,13 @@
 
 ****I wrote this code for an assignment as part of an AI course at the Universitat Politecnica de Catalunya in Barcelona, during my exchange. The course was taught in Spanish, which is why some terms are in Spanish. Most of them are pretty straightforward  but a few important ones that might be good to know are:
 
-**Spanish		English**
-Central		Power Plant
-Cliente		Client
-Tipo			Type
-Tamaño		size
-Garantizado	Guaranteed
-Consumo		Consumption 
+**Spanish		English** <br>
+Central		Power Plant <br>
+Cliente		Client <br>
+Tipo			Type <br>
+Tamaño		size <br>
+Garantizado	Guaranteed <br>
+Consumo		Consumption  <br>
 
 Below you can read the English translation of the original assignment. The main idea is implementing a heuristics, hillclimbing algorithm to solve an NP complete problem of distribution of clients over power plants.
 To run it, simply run the Main.java file from the src folder. It will first give the results from the initial basic solution, then run the hillclimbing algorithm and show the results after hillclimbing.
