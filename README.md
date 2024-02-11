@@ -1,19 +1,22 @@
-# Java_code_project
+# Java_code_project <br>
 
 ****I wrote this code for an assignment as part of an AI course at the Universitat Politecnica de Catalunya in Barcelona, during my exchange. The course was taught in Spanish, which is why some terms are in Spanish. Most of them are pretty straightforward  but a few important ones that might be good to know are:
-
+<br> 
 **Spanish		English** <br>
-Central		Power Plant <br>
-Cliente		Client <br>
-Tipo			Type <br>
-Tamaño		size <br>
-Garantizado	Guaranteed <br>
-Consumo		Consumption  <br>
+Central	-	Power Plant <br>
+Cliente	-	Client <br>
+Tipo	-	Type <br>
+Tamaño	-	size <br>
+Garantizado -	Guaranteed <br>
+Consumo	-	Consumption  <br>
 
 Below you can read the English translation of the original assignment. The main idea is implementing a heuristics, hillclimbing algorithm to solve an NP complete problem of distribution of clients over power plants.
 To run it, simply run the Main.java file from the src folder. It will first give the results from the initial basic solution, then run the hillclimbing algorithm and show the results after hillclimbing.
-The code is about exactly a year old. I have some comments myself about things I think I could have improved which I am happy to discuss during the interview, but overall I think it’s a good example of a fairly big piece of code, using OOP and algorithms in Java. 
+The code is about exactly a year old. I have some comments myself about things I think I could have improved or done differently, which I am happy to discuss during an interview, but overall I think it’s a good example of a fairly big piece of code, using OOP and algorithms in Java. 
+
+<br>
 ****
+Asignment discription:
 The new European regulations for the energy market make the relationship between energy producers and consumers more direct and certain opportunities arise to optimize supply and demand. Each electricity generation company manages a park of power plants of different types that allow a certain number of megawatts to be produced daily. Since their capacity to produce electricity generally exceeds possible demand, it is not economical to keep all plants producing continuously. This means that they have to make the decision of which power plants to use and which power plants to stop, depending on the contracted demand. There are plants of different types, with different productions and daily costs in operation and in shutdown. 
 Within electricity consumers is the group of large consumers. These can consume enough electricity to negotiate different rates depending on your needs. To also make consumption and production more flexible, there are tariffs that ensure supply in any circumstance and others, on the contrary, can leave the contracted supply without if there is an excess of external demand. This also implies a change in the rate price that these users have to pay. In the event that a customer with a non-guaranteed contract does not receive supply one day, they will receive compensation based on the consumption indicated in their contract. 
 We will assume that we are going to solve the problem for a single electricity supplier, which has plants of 3 types (A, B, C). Each type of plant is in a megawatt production range and has daily costs depending on its type and production. The following table shows the values that each type of control unit can take:
