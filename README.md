@@ -2,7 +2,7 @@
 
 ****I wrote this code for an assignment as part of an AI course at the Universitat Politecnica de Catalunya in Barcelona, during my exchange. The course was taught in Spanish, which is why some terms are in Spanish. Most of them are pretty straightforward  but a few important ones that might be good to know are:
 <br> 
-**Spanish		English** <br>
+**Spanish	-	English** <br>
 Central	-	Power Plant <br>
 Cliente	-	Client <br>
 Tipo	-	Type <br>
