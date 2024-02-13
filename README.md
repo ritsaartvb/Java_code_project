@@ -12,7 +12,7 @@ Consumo	-	Consumption  <br>
 
 Below you can read the English translation of the original assignment. The main idea is implementing a heuristics, hillclimbing algorithm to solve an NP complete problem of distribution of clients over power plants.
 To run it, simply run the Main.java file from the src folder. It will first give the results from the initial basic solution, then run the hillclimbing algorithm and show the results after hillclimbing.
-The code is about exactly a year old. I have some comments myself about things I think I could have improved or done differently, which I am happy to discuss during an interview, but overall I think it’s a good example of a fairly big piece of code, using OOP and algorithms in Java. 
+The code is over a year old. I have some comments myself about things I think I could have improved or done differently, which I am happy to discuss during an interview, but overall I think it’s a good example of a fairly big piece of code, using OOP and algorithms in Java. 
 
 <br>
 ****
